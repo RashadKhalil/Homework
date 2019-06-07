@@ -1,0 +1,19 @@
+body{
+    background-image:url(../image/aaa.png);
+}
+h3{
+    text-indent: 20px;
+}
+
+input{
+    width: 1280px;
+    height: 40px;
+}
+
+.btn{
+    width:120px;
+    color:#fff;
+    background-color:black;
+    border:none;
+}
+
